@@ -102,7 +102,7 @@
     "@types/scroll-to-element": "^2.0.2",
     "@types/stripe-v3": "^3.1.20",
     "@types/webpack-env": "1.18.8",
-    "ansi-to-react": "^6.1.6",
+    "ansi-to-react": "^6.2.6",
     "base64-arraybuffer": "^1.0.1",
     "buffer": "^6.0.3",
     "cbor2": "^1.12.0",
